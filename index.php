@@ -5,7 +5,7 @@
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible"  content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel='stylesheet' type='text/css' href='css/bootstrap.css'> 	
+		<link rel='stylesheet' type='text/css' href='css/login.css'> 	
 		<title>FISHMO</title>
 		
 	</head>
@@ -16,7 +16,7 @@
 			<div class="col-md-6 col-md-offset-3-5">
 				<h1>Welcome to the Fishmo Database</h1>
 
-				<div class = "col-md-6 col-md-offset-2" >
+				<div class = "col-md-6 col-md-offset-1" >
 
 					<div class="panel panel-default">
 					  <div class="panel-heading"><strong>Login</strong></div>
